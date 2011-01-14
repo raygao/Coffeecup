@@ -1,0 +1,21 @@
+==What is CoffeeCup? 
+Java has becoming one of the most popular programming language for the web programming. It has also been used for running enterprise level applications. Java uses CLASSPATH variables to glue components together in achieving modularity. Some times Java CLASSPATH could be very long. If you have any Java programming experience, you might already felt how tedious it was to type in the long java CLASSPATH variables at the command line. It could be even more painstaking to move and install new java applications. So, Mr.Raymond Gao wrote the CoffeeCup which can automatically generate the shell scripts with the corresponding CLASSPATH for you. That means that CoffeeCup will write out shell scripts with specified CLASSPATHs based on what you clicked at the GUI. CoffeeCup is the ultimate WYSIWYG (What You See Is What You Get) tool for Java. CoffeeCup is a novel tool that can relieve you from tedious typing. It can help you saving your valuable time. Furthermore, you can even run your Java applications within the Coffeecup.
+
+==Version History
+Free download CoffeeCup-version-1.0 now!
+CoffeeCup-version-1.0 was first published on the net on October 1, 2000. It is the sole property of "http://raygao.com". And, "http://raygao.com" reserves the copyright of CoffeeCup-version-1.0 and all its improved versions. At the present time, "http://raygao.com" grants the permission to net users to download CoffeeCup-version-1.0 free of charge (the estimated price is $19.95 per copy) for their personal use until further announcement is made. There is no warranty on it whatsoever. Users bear their own risk to try CoffeeCup-version-1.0.
+
+
+==Instructions
+
+===Installing Coffeecup
+CoffeeCup uses Java's Swing technology. so, you must have JDK 1.2.2 or greater installed, preferrably JDK 1.3 (which uses HotSpot and is faster). 
+Installing Coffeecup is very simple. It takes 3 steps to install CoffeeCup-1.0. 
+1) Make sure you have JDK 1.2.2 or greater installed on your computer. You can get it from http://www.javasoft.com. 
+2) Click here to download CoffeeCup. 
+3) Run Coffeecup at the shell prompt: (You may even just double click the "coffeecup.jar" file.) 
+    java -jar coffeecup.jar 
+Now, sit back and enjoy it.
+** You can also run your Java applications directly from within the Coffeecup by click on the Run Button.
+How to use CoffeeCup 
+
