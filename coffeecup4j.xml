@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE coffeecup SYSTEM "coffeecup.dtd">
+<coffeecup>
+
+<!-- ===================================================== -->
+<!-- This is the example for the CoffeeCup Classpath Tool  -->
+<!-- Written by Raymond Gao                                -->
+<!-- Copyright, e-Pollination Enterprise, inc. Apr 7, 2003 -->
+<!-- iteration #1                                          -->
+<!-- ===================================================== -->
+
+	<javaApp>
+		<!-- The name of target application is "coffeecup:. -->
+		<target>coffeecup4j.Hello</target>
+		
+		<!-- containing 3 classpath entries - 1) Java.io.*; 2)Java.lang.*; 3)coffeecup.jar -->
+		<classpath>
+			<entry>Java.io.*</entry>
+			<entry>Java.lang.*</entry>
+			<entry>coffecup.jar</entry>
+		</classpath>
+		
+		<!-- containting 3 properties about the author, version, and copyright -->
+		<properties>
+			<property name="author" value="Ray Gao"/>
+			<property name="version" value="1.1"/>
+			<property name="copyright" value="e-pollination Enterprise, inc."/>
+		</properties>
+		
+		<!-- arguments to be passed to the target application -->
+		<arguments>
+			<argument>input#1</argument>
+			<argument>input#2</argument>
+		</arguments>
+		
+		<!-- logfile to be used is coffeecup_out.log -->
+		<logfile>coffeecup_out.log</logfile>
+	</javaApp>
+</coffeecup>

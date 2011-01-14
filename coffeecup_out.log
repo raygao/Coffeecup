@@ -1,0 +1,170 @@
+*******************************************
+Sun Jul 13 12:11:35 CDT 2003
+*******************************************
+--- Received following information from executing coffeecup4j.Brew on coffeecup4j.xml ---
+
+Target is --> coffeecup4j.Hello
+
+Classpath is --> Java.io.*;Java.lang.*;coffecup.jar;
+
+Arguments list is --> input#1 input#2 
+
+Logfile is --> coffeecup_out.log
+
+Properties are listed as following 
+
+-- listing properties --
+version=1.1
+copyright=e-pollination Enterprise, inc.
+author=Ray Gao
+*******************************************
+Sun Jul 13 12:11:35 CDT 2003
+*******************************************
+--- Logfile from executing coffeecup4j.Drink.class ---
+Received classpath -> .;Java.io.*;Java.lang.*;coffecup.jar; from brew.java
+Loaded coffeecup4j.Hello.class
+Launching coffeecup4j.Hello.class
+      with following arguments -> input#1 input#2 
+      with classpath -> file:/.;Java.io.*;Java.lang.*;coffecup.jar;
+      and properties:
+-- listing properties --
+java.runtime.name=Java(TM) 2 Runtime Environment, Stand...
+sun.boot.library.path=C:\Program Files\Java\j2re1.4.1_02\bin
+java.vm.version=1.4.1_02-b06
+java.vm.vendor=Sun Microsystems Inc.
+java.vendor.url=http://java.sun.com/
+path.separator=;
+java.vm.name=Java HotSpot(TM) Client VM
+file.encoding.pkg=sun.io
+user.country=US
+sun.os.patch.level=Service Pack 6
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=D:\coffeecup_xml
+author=Ray Gao
+java.runtime.version=1.4.1_02-b06
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=C:\Program Files\Java\j2re1.4.1_02\li...
+os.arch=x86
+java.io.tmpdir=C:\TEMP\
+line.separator=
+
+java.vm.specification.vendor=Sun Microsystems Inc.
+user.variant=
+os.name=Windows NT
+sun.java2d.fontpath=
+copyright=e-pollination Enterprise, inc.
+java.library.path=C:\WINNT\system32;.;C:\WINNT\System32...
+java.specification.name=Java Platform API Specification
+java.class.version=48.0
+java.util.prefs.PreferencesFactory=java.util.prefs.WindowsPreferencesFac...
+os.version=4.0
+user.home=C:\WINNT\Profiles\Administrator
+user.timezone=America/Chicago
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=Cp1252
+java.specification.version=1.4
+user.name=Administrator
+java.class.path=.
+java.vm.specification.version=1.0
+sun.arch.data.model=32
+java.home=C:\Program Files\Java\j2re1.4.1_02
+java.specification.vendor=Sun Microsystems Inc.
+user.language=en
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+java.version=1.4.1_02
+java.ext.dirs=C:\Program Files\Java\j2re1.4.1_02\li...
+sun.boot.class.path=C:\Program Files\Java\j2re1.4.1_02\li...
+java.vendor=Sun Microsystems Inc.
+file.separator=\
+java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport...
+sun.cpu.endian=little
+sun.io.unicode.encoding=UnicodeLittle
+version=1.1
+sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+m...
+***Done executing Drink.java***
+*******************************************
+Sun Jul 13 12:22:25 CDT 2003
+*******************************************
+--- Received following information from executing coffeecup4j.Brew on coffeecup4j.xml ---
+
+Target is --> coffeecup4j.Hello
+
+Classpath is --> Java.io.*;Java.lang.*;coffecup.jar;
+
+Arguments list is --> input#1 input#2 
+
+Logfile is --> coffeecup_out.log
+
+Properties are listed as following 
+
+-- listing properties --
+version=1.1
+copyright=e-pollination Enterprise, inc.
+author=Ray Gao
+*******************************************
+Sun Jul 13 12:22:25 CDT 2003
+*******************************************
+--- Logfile from executing coffeecup4j.Drink.class ---
+Received classpath -> coffeecup4j.jar;Java.io.*;Java.lang.*;coffecup.jar; from brew.java
+Loaded coffeecup4j.Hello.class
+Launching coffeecup4j.Hello.class
+      with following arguments -> input#1 input#2 
+      with classpath -> file:/coffeecup4j.jar;Java.io.*;Java.lang.*;coffecup.jar;
+      and properties:
+-- listing properties --
+java.runtime.name=Java(TM) 2 Runtime Environment, Stand...
+sun.boot.library.path=C:\Program Files\Java\j2re1.4.1_02\bin
+java.vm.version=1.4.1_02-b06
+java.vm.vendor=Sun Microsystems Inc.
+java.vendor.url=http://java.sun.com/
+path.separator=;
+java.vm.name=Java HotSpot(TM) Client VM
+file.encoding.pkg=sun.io
+user.country=US
+sun.os.patch.level=Service Pack 6
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=D:\coffeecup_xml
+author=Ray Gao
+java.runtime.version=1.4.1_02-b06
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=C:\Program Files\Java\j2re1.4.1_02\li...
+os.arch=x86
+java.io.tmpdir=C:\TEMP\
+line.separator=
+
+java.vm.specification.vendor=Sun Microsystems Inc.
+user.variant=
+os.name=Windows NT
+sun.java2d.fontpath=
+copyright=e-pollination Enterprise, inc.
+java.library.path=C:\WINNT\system32;.;C:\WINNT\System32...
+java.specification.name=Java Platform API Specification
+java.class.version=48.0
+java.util.prefs.PreferencesFactory=java.util.prefs.WindowsPreferencesFac...
+os.version=4.0
+user.home=C:\WINNT\Profiles\Administrator
+user.timezone=America/Chicago
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=Cp1252
+java.specification.version=1.4
+user.name=Administrator
+java.class.path=coffeecup4j.jar
+java.vm.specification.version=1.0
+sun.arch.data.model=32
+java.home=C:\Program Files\Java\j2re1.4.1_02
+java.specification.vendor=Sun Microsystems Inc.
+user.language=en
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+java.version=1.4.1_02
+java.ext.dirs=C:\Program Files\Java\j2re1.4.1_02\li...
+sun.boot.class.path=C:\Program Files\Java\j2re1.4.1_02\li...
+java.vendor=Sun Microsystems Inc.
+file.separator=\
+java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport...
+sun.cpu.endian=little
+sun.io.unicode.encoding=UnicodeLittle
+version=1.1
+sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+m...
+***Done executing Drink.java***

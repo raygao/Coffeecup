@@ -1,0 +1,19 @@
+<!-- ===================================================== -->
+<!-- This is the DTD for the CoffeeCup Classpath Tool      -->
+<!-- Written by Raymond Gao                                -->
+<!-- Copyright, e-Pollination Enterprise, inc. Apr 7, 2003 -->
+<!-- iteration #1                                          -->
+<!-- ===================================================== -->
+
+<!ELEMENT coffeecup (javaApp?) >
+<!ELEMENT javaApp (target, classpath?, properties?, arguments?, logfile?) >
+<!ELEMENT target (#PCDATA) >
+<!ELEMENT classpath (entry+) >
+<!ELEMENT entry (#PCDATA) >
+<!ELEMENT properties (property+) >
+<!ELEMENT property EMPTY >
+<!ATTLIST property name CDATA #REQUIRED
+                   value CDATA "">
+<!ELEMENT arguments (argument+) >
+<!ELEMENT argument (#PCDATA) >
+<!ELEMENT logfile (#PCDATA) >
